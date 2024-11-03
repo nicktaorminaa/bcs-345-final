@@ -1,0 +1,3 @@
+"1, 1234, Michael Jordan, MJ23@Gmail.com, 516-888-9922, 123 Main St"
+"2, 2366, Lebron James, KingJames@Gmail.com, 631-999-2233, 222 Main St" 
+"3, 3030, Steph Curry, SplashCurry@Gmail.com, 516-223-3344, 113 Main St"
